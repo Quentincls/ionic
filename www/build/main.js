@@ -55811,7 +55811,7 @@ var HomePage = (function () {
 }());
 HomePage = __decorate([
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_5" /* Component */])({
-        selector: 'page-home',template:/*ion-inline-start:"/Users/quentincolus/ionic/src/pages/home/home.html"*/'<ion-header>\n  <ion-navbar>\n    <ion-title>Dernier article</ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content padding>\n  <h2>Bienvenue sur bibi chat le teste de tigrou qui va aller faire caca</h2>\n  <p>\n    Le début de notre premier application avec bico bi.\n  </p>\n  <p>\n    Take a look at the <code>src/pages/</code> directory to add or change tabs,\n    update any existing page or create new pages.\n  </p>\n</ion-content>\n'/*ion-inline-end:"/Users/quentincolus/ionic/src/pages/home/home.html"*/
+        selector: 'page-home',template:/*ion-inline-start:"/Users/quentincolus/ionic/src/pages/home/home.html"*/'<ion-header>\n  <ion-navbar>\n    <ion-title>First App Ionic</ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content padding>\n  <h2>Firt application witch Ionic</h2>\n  <p>\n    First test of ionic application\n  </p>\n  <p>\n    Take a look at the <code>src/pages/</code> directory to add or change tabs,\n    update any existing page or create new pages.\n  </p>\n</ion-content>\n'/*ion-inline-end:"/Users/quentincolus/ionic/src/pages/home/home.html"*/
     }),
     __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["d" /* NavController */]])
 ], HomePage);
